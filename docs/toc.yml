@@ -1,0 +1,11 @@
+- name: Articles
+  href: articles/
+- name: Client
+  href: api/client
+  homepage: api/client.md
+- name: Shared
+  href: api/shared
+  homepage: api/shared.md
+- name: Server
+  href: api/server
+  homepage: api/server.md
